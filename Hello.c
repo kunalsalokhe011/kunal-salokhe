@@ -1,14 +1,6 @@
-# include <stdio.h>
+#include <stdio.h>
 
-int main()  {
-   
-    int number = 25;
-    char star = '*';
-    int age = 18;
-    float pi = 3.14;
-
-    int a =30;
-    int A = 40;
-    
+int main(void) {
+    printf("Simple C demo\n");
     return 0;
 }
